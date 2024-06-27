@@ -1,0 +1,1 @@
+[https://premake.github.io/docs/Your-First-Script](https://premake.github.io/docs/Your-First-Script "https://premake.github.io/docs/Your-First-Script")
